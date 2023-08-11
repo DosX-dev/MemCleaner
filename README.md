@@ -4,3 +4,4 @@ A simple memory cleanup utility in C for Windows that enumerates all processes a
 ### [Download compiled in .EXE](https://github.com/DosX-dev/MemCleaner/releases/tag/Builds)
 
 ![](screen.png)
+![](pragh.png)
